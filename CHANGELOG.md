@@ -1,6 +1,6 @@
 # Changelog
 
-### 2016/04/01
+### 4th January 2016
 
 #### Fontawesome as option for social icons in footer
 
@@ -15,13 +15,13 @@ Pages can now be hidden by adding `hidden = true` to the frontmatter. The pages 
 [Show me the diff](https://github.com/digitalcraftsman/hugo-cactus-theme/commit/cf93e42859280b04703cd6ca96062db9a4adb65e)
 
 
-### 2015/07/12
+### 7th December 2015
 
 #### Social link icons
 
 Social links with icons can be enabled replacing the copyright field in footer. Configure the style and links in `config.toml`.
 
-### 2015/26/11
+### 26th November 2015
 
 Hugo v0.15 is required in order to run the theme with the changes listed below:
 
