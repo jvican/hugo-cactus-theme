@@ -679,3 +679,7 @@ a[rel="footnote"] {
     line-height: 0;
     vertical-align: baseline;
 }
+
+figcaption > h4 {
+	text-align: right;
+}
